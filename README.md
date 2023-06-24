@@ -1,10 +1,8 @@
 Hi, I'm Jose Miguel, but you can call me **M1x3r**. 
 
-I'm a Web development with wix and devs Jr. javascript, solidity and html, css from Bolivia 💚, **28 years old** 👶🏻 and **1 years of coding** 🧐. 
+I'm a Web development with wix and devs Jr. javascript, solidity, dart and html, css from Bolivia 💚, **29 years old** 👶🏻 and **1 years of coding** 🧐. 
 
 **A book lover** 📕, **an aspiring streaming player** 🎸 and a good **video-game player** 🎮 and **E-football 2022** 🗡 fan. 
-
-* ✏ Weekly writer on dev.to, [follow me](https://). 
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
 * 👽 Learning any tecnology that apears on my way.
 
